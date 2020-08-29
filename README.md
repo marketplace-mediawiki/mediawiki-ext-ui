@@ -1,6 +1,6 @@
-# Information / Информация
+# Information
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_UI`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -9,12 +9,12 @@
 wfLoadExtension( 'MW_EXT_UI' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
